@@ -6,21 +6,21 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devjoelmichael" alt="devjoelmichael" /></a> </p>
 ​
 <p align="left"> <a href="https://twitter.com/devjoelmichael" target="blank"><img src="https://img.shields.io/twitter/follow/devjoelmichael?logo=twitter&style=for-the-badge" alt="devjoelmichael" /></a> </p>
-​
-- �� I’m currently working on **Pagelender**
-​
-- �� I’m currently learning **WordPress, React Native, and**
-​
+​<br/>
+- I’m currently working on **Pagelender**
+​<br/>
+- I’m currently learning **WordPress, React Native, and**
+​<br/>
 - Portfolio: [https://devjoelmichael.github.io/](https://devjoelmichael.github.io/)
-​
-- �� Ask me about **Javascript, React, CSS, SCSS, and Adobe Premiere Pro**
-​
+​<br/>
+- Ask me about **Javascript, React, CSS, SCSS, and Adobe Premiere Pro**
+​<br/>
 - Email: **devjoelmichael@gmail.com**
-​
+​<br/>
 - Check out my resume: [Joel.Poirier.Resume.pdf](Joel.Poirier.Resume.pdf)
-​
-- ⚡ Fun fact **I create write and direct short films, see here: https://www.homewardfilmco.com**
-​
+​<br/>
+- Fun fact **I create write and direct short films, see here: https://www.homewardfilmco.com**
+​<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devjoelmichael" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="devjoelmichael" height="30" width="40" /></a>
