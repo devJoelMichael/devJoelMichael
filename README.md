@@ -11,7 +11,7 @@
 ​<br/>
 - I’m currently learning **WordPress, React Native, and**
 ​<br/>
-- Portfolio: CLICK HERE! <a href="https://devjoelmichael.github.io/">
+- Portfolio: <a href="https://devjoelmichael.github.io/"> CLICK HERE! </a>
 ​<br/>
 - Ask me about **Javascript, React, CSS, SCSS, and Adobe Premiere Pro**
 ​<br/>
